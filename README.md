@@ -1,7 +1,7 @@
 # AR-Markers-and-AR-Planes
 AR Markers and AR Planes using AR Foundation, Visual Scripting
-What makes a Good AR Markers?
 
+What makes a Good AR Markers?
 An AR marker must meet the following requirements:
 Size must be at least 300 x 300 pixels. (However, markers do not have to be square!).
 Format must be PNG or JPG. 
